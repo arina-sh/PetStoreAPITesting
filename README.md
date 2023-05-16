@@ -1,2 +1,2 @@
-# PetStoreAPITesting
+# Выполнение задания 19.3.3
 Запросы GET, POST, DELETE, PUT. Практика использования библиотеки requests
